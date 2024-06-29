@@ -1,10 +1,10 @@
 # About Me
 Hello! 👋 I'm **_Clara_**, a graduand of WeThinkCode_ based in South Africa. I have a strong background in software development and IT systems. 
 ## 🔭 Current Focus
-Graduating from **_Systems Development(NQF Level 5 SETA)_**
-Tutoring **_Python and Java_**
-Building projects in **_Python, Java, JavaScript and Flutter_**
-Exploring opportunities in **_web and software development_**
+- Graduating from **_Systems Development(NQF Level 5 SETA)_**
+- Tutoring **_Python and Java_**
+- Building projects in **_Python, Java, JavaScript and Flutter_**
+- Exploring opportunities in **_web and software development_**
 ## 🌱 Skills
 ### Programming Languages:
 - Python
